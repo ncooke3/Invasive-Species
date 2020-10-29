@@ -8,9 +8,9 @@ google-ID: ''
 
 menu:
 - {name: 'Podcasts', folder: 'pages', file: 'facts.html'}
-- {name: 'Feature Story #1', folder: 'pages', file: 'resources.html'}
-- {name: 'Feature Story #2', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Feature Story #3', folder: 'pages', file: ''}
+- {name: 'Feature Story 1', folder: 'pages', file: 'resources.html'}
+- {name: 'Feature Story 2', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Feature Story 3', folder: 'pages', file: ''}
 - {name: 'Glossary', folder: 'pages', file: 'documentation.html'}
 - {name: 'Team Bios', folder: 'pages', file: 'about.html'}
 - {name: 'References', folder: 'pages', file: 'contact.html'}
