@@ -28,3 +28,5 @@ References:
 https://www.fromhousetohome.com/garden/invasive-plants/ 
 
 https://www.gainvasives.org/
+
+https://www.gardeningknowhow.com/ornamental/bulbs/lily-of-the-valley/growing-lily-of-the-valley.htm
