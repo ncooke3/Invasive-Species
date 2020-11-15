@@ -22,6 +22,7 @@ It’s not just online blogs. The Georgia Invasive Species Task Force basically 
 
 We are now posed with the question: how do we effectively communicate the danger of invasive species? On the one hand, I do not believe commercials about sentient plant murderers would be taken very seriously.  On the other hand, the objective, scientific papers lack the pathos appeal necessary for targeting a mainstream audience. If the right emotional connection could be struck with the media consumer, the producer would need to consider the possible unintended consequences. In a sort of scare campaign, much care would need to be taken in *defining* ‘invasive species.’ An invasive species in a foreign territory is obviously not invasive (although it could have invasive-like traits) in its motherland. Therefore, the only path forward I see in our education comes from local-level efforts. Scientists need to delineate the facts every local must know about their ecosystem and journalists or marketers must convey that content with persuasion and responsibility. Without these environmental pushes, there will be no end to the recreational planters who are accomplice to their food web’s trophic cascades. 
 
+
 References:
 
 https://www.fromhousetohome.com/garden/invasive-plants/ 
