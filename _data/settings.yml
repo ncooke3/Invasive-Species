@@ -7,13 +7,10 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Podcasts', folder: 'pages', file: 'facts.html'}
-- {name: 'Invasive Ads', folder: 'pages', file: 'invasiveads.md'}
-- {name: 'Feature Story 2', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Feature Story 3', folder: 'pages', file: ''}
-- {name: 'Glossary', folder: 'pages', file: 'documentation.html'}
-- {name: 'Team Bios', folder: 'pages', file: 'about.html'}
-- {name: 'References', folder: 'pages', file: 'contact.html'}
+- {name: 'Podcasts', folder: 'pages', file: 'podcasts.html'}
+- {name: 'Feature Stories', folder: 'pages', file: 'stories.html'}
+- {name: 'Glossary', folder: 'pages', file: 'glossary.html'}
+- {name: 'Team Bios', folder: 'pages', file: 'bios.html'}
 
 related_posts: 'You may also enjoy...'
 
