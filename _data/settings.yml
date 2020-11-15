@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Podcasts', folder: 'pages', file: 'facts.html'}
-- {name: 'Invasive Ad', folder: 'pages', file: 'resources.html'}
+- {name: 'Invasive Ads', folder: 'pages', file: 'invasiveads.md'}
 - {name: 'Feature Story 2', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Feature Story 3', folder: 'pages', file: ''}
 - {name: 'Glossary', folder: 'pages', file: 'documentation.html'}
