@@ -3,6 +3,7 @@ layout: post
 title: "Invasive Ads"
 author: "William Braga"
 image: lilyofthevalley.jpg
+categories: story
 ---
 
 I’m settling down for the night and decide to put on a fun and casual show – perhaps Broad City on Hulu. It’s been a packed Thursday, and I just need to fry my brain with some TV and let the day’s stress be drained. Maybe it’s not the most mindful way to handle it, but it’ll do for today. Anything else would have too high of an activation energy… Before the guilt of my concession starts to sink in, my hands instinctually reach for the remote and play the next episode, crudely cutting off my mind’s voice from the discussion. With mental awareness out of the picture, I’m properly receptive of the incoming content. Cue the colorful, psychedelic intro scene with the title card morphing in and out of different shapes, popping like a cartoon balloon and being instantly reconstituted. 
