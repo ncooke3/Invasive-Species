@@ -4,7 +4,7 @@ title: "Invasive Species and Landscaping"
 author: "Nick Cooke"
 categories: story
 tags: [story]
-image: lilyofthevalley.jpg
+image: kudzu.png
 ---
 
 Last weekend, my parents and I ventured out to Red Top Mountain State Park in Cartersville, Georgia to enjoy the autumn air and colorful leaves. While walking through a forested area with a noticeable amount of fallen trees, one of my parents made the comment that the fallen trees should at least be cut up and distributed as firewood, rather than left to slowly rot away next to the trail. 
