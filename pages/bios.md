@@ -3,7 +3,7 @@ layout: misc
 title: Bios
 ---
 
-##William Braga
+#William Braga
 
 ![alt text]({{ site.github.url }}/assets/img/william.jpg)
 
@@ -12,7 +12,7 @@ Hello there! My name is William Braga. I am a third-year undergraduate Computer 
 Since Fall 2019, I have worked as an undergraduate teaching assistant for CS 2050: Intro to Discrete Mathematics. As the go-between for the instructor and students, I often mediate conflicting interests. Even though it may sometimes be impossible to accommodate all sides, I have always valued fairness and open communication. I never want someone to feel like they were not heard. In the future, I hope to avoid working for a company that focuses only on proprietary, closed-design solutions. I think clients have the right to be fully informed of what they are buying and the objective of the server.
 
 
-##Nick Cooke
+#Nick Cooke
 
 ![alt text]({{ site.github.url }}/assets/img/nick.jpg)
 
@@ -23,7 +23,7 @@ Over the summer I worked at Google building tools for app developers. While ther
 I’m very much a self-starter and enjoy working hard. As far as values, I value honesty, kindness, and empathy. Learning motivates me, and I love helping others around me learn too! This being said, I’d like to grow my career into a position working as a developer advocate, where I can share my knowledge with other developers and use their experiences and feedback to better the software my team creates.
 
 
-##Markian Hromiak         
+#Markian Hromiak         
 
 ![alt text]({{ site.github.url }}/assets/img/markian.jpg)
 
