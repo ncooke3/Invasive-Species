@@ -6,6 +6,7 @@ title: Bios
 <h2>William Braga</h2>
 
 ![Photo of William Braga]({{ site.github.url }}/assets/img/william.jpg)
+<img width="75" src="/assets/img/william.jpg" align="right">
 
 Hello there! My name is William Braga. I am a third-year undergraduate Computer Science major at Georgia Tech. I will graduate this semester and begin my Master’s in the spring. My specialties are in Intelligence – the areas within machine learning – and Information Internetworks – the ways in which computing systems are created and layered. One of my favorite classes was Natural Language Processing, where I learned the ways in which language can be modeled and understood by a computer. For our final project, my friend and I created a recipe generator that would come up with never-before-seen (usually for good reason) dishes.
 
