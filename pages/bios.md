@@ -5,7 +5,7 @@ title: Bios
 
 <h2>William Braga</h2>
 
-<img width="150" src="../assets/img/william.jpg" align="right">
+![Photo of William Braga]({{ site.github.url }}/assets/img/william.jpg)
 
 Hello there! My name is William Braga. I am a third-year undergraduate Computer Science major at Georgia Tech. I will graduate this semester and begin my Master’s in the spring. My specialties are in Intelligence – the areas within machine learning – and Information Internetworks – the ways in which computing systems are created and layered. One of my favorite classes was Natural Language Processing, where I learned the ways in which language can be modeled and understood by a computer. For our final project, my friend and I created a recipe generator that would come up with never-before-seen (usually for good reason) dishes.
 
@@ -16,7 +16,7 @@ Since Fall 2019, I have worked as an undergraduate teaching assistant for CS 205
 
 <h2>Nick Cooke</h2>
 
-<img width="150" src="../assets/img/nick.jpg" align="right">
+![Photo of Nick Cooke]({{ site.github.url }}/assets/img/nick.jpg)
 
 Hi there, I’m Nick Cooke, a fourth year computer science major at Georgia Tech. In my free time, I enjoy building apps that help people accomplish everyday tasks faster and easier.
 
@@ -28,7 +28,7 @@ I’m very much a self-starter and enjoy working hard. As far as values, I value
 
 <h2>Markian Hromiak</h2>
 
-<img width="150" src="../assets/img/markian.jpg" align="right">
+![Photo of Markian Hromiak]({{ site.github.url }}/assets/img/markian.jpg)
 
 Oh hey! I’m Markian Hromiak, a fifth year computer science major at the Georgia Institute of Technology focusing in artificial intelligence and low-level system design. When I’m not researching you can find me cooking, climbing, knitting, playing trumpet and piano --- it’s never too late to learn something new.
 
