@@ -34,4 +34,4 @@ Oh hey! I’m Markian Hromiak, a fifth year computer science major at the Georgi
 
 I have two years internship experience as a software engineer and have more recently debuted in the area of AI research by publishing on arXiv. I am also pursuing a patent for an eyewear technology that will let one pair fit most prescriptions. My philosophy behind creating anything is that its value increases the more people’s lives it changes for the better.
 
-Currently I am simultaneously applying to graduate schools in hope of pursuing a PhD in artificial intelligence and cognitive architectures and searching for software engineering positions in industry so that no matter where I end up I can create things 
+Currently I am simultaneously applying to graduate schools in hope of pursuing a PhD in artificial intelligence and cognitive architectures and searching for software engineering positions in industry so that no matter where I end up I can create things.
