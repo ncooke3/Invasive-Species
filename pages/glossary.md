@@ -5,7 +5,7 @@ title: Glossary
 
 **Accidental release:** The undeliberate introduction of an alien species into an environment (i.e. ballast water containing zebra mussels being released in waters non-native to zebra mussels, thus introducing mussels as an alien species).
 
-**Ameliorate:** To make (something bad or unsatisfactory) better.
+**Ameliorate:** To make (something bad or unsatisfactory) better. Similar to alleviate. 
 
 **Ballast water:** Water held in the ballast tanks of a boat to aid vessel stabilization.
 
@@ -19,7 +19,7 @@ title: Glossary
 
 **Ecosystem:** A biological community of interacting organisms and their physical environment. Closely related to the term ‘biome’.
 
-**Environment:** The surroundings or conditions in which a person, animal, or plant lives or operates.
+**Environment:** The surroundings or conditions in which a person, animal, or plant lives or operates. One’s environment is equatable to the immediate surroundings; the environment of a fish is the body of water it is in, not a rainforest.
 
 **Eradication:** The complete removal of any invasive individuals and their (potential) offspring. This reactive measure has been considered the most effective recourse, but it is usually only feasible in specific areas like small islands. 
 
