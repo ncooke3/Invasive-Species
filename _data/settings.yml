@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Mobile App', folder: 'pages', file: 'mobile_app.md'}
+- {name: 'Mobile App', folder: 'pages', file: 'mobile_app.html'}
 - {name: 'Infographic', folder: 'pages', file: 'infographic.html'}
 - {name: 'Podcasts', folder: 'pages', file: 'podcasts.html'}
 - {name: 'Feature Stories', folder: 'pages', file: 'stories.html'}
