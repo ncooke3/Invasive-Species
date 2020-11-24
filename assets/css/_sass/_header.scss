@@ -40,6 +40,14 @@
   color: green;
 }
 
+a:hover {
+  color: blue;
+}
+
+.menu-link a:hover {
+  color: red;
+}
+
 /*
   Responsiveness with a dropdown menu
 */
