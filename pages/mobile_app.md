@@ -3,7 +3,7 @@ layout: misc
 title: Mobile App
 ---
 
-<img width="200" src="../assets/img/app.png" align="center">
+<img height="200" src="../assets/img/app.png" align="center">
 
 ## The Invasive Species Reporting App
 A big goal of this iniative is to make it easy for everyone to participate in the fight against invasive
