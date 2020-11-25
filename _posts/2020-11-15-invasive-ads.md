@@ -26,8 +26,8 @@ We are now posed with the question: how do we effectively communicate the danger
 
 References:
 
-https://www.fromhousetohome.com/garden/invasive-plants/ 
+Georgia Invasive Species Task Force. (n.d.). GA Invasives. Retrieved November 25, 2020, from https://www.gainvasives.org/
 
-https://www.gainvasives.org/
+Simone, W. (2020, August 15). Invasive Plants: 10 Beautiful But Invasive Perennials You Do Not Want In Your Garden. Retrieved November 25, 2020, from https://www.fromhousetohome.com/garden/invasive-plants/
 
-https://www.gardeningknowhow.com/ornamental/bulbs/lily-of-the-valley/growing-lily-of-the-valley.htm
+Tilley, N. (2019). Please Enable Cookies. Retrieved November 25, 2020, from https://www.gardeningknowhow.com/ornamental/bulbs/lily-of-the-valley/growing-lily-of-the-valley.htm
