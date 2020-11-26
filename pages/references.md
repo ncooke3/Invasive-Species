@@ -3,8 +3,8 @@ layout: page
 title: References
 ---
 
-Avery, M., Humphrey, J., Keacher, K., & Bruce, W. (2018, December 03). Detection and 
-  Removal of Invasive Burmese Pythons: Methods Development Update. Retrieved
+Avery, M., Humphrey, J., Keacher, K., & Bruce, W. (2018, December 03). Detection and <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Removal of Invasive Burmese Pythons: Methods Development Update. Retrieved
   October 04, 2020, from https://escholarship.org/uc/item/90z67731
 
 Chornesky, E. & Randall, J. (2003). The Threat of Invasive Alien Species to Biological Diversity:
