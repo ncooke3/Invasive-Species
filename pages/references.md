@@ -5,22 +5,22 @@ title: References
 
 Avery, M., Humphrey, J., Keacher, K., & Bruce, W. (2018, December 03). Detection and <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Removal of Invasive Burmese Pythons: Methods Development Update. Retrieved <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 04, 2020, from <https://escholarship.org/uc/item/90z67731> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 04, 2020, from https://escholarship.org/uc/item/90z67731 <br>
 
 Chornesky, E. & Randall, J. (2003). The Threat of Invasive Alien Species to Biological Diversity: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting a Future Course. Annals of the Missouri Botanical Garden, 90(1), 67-76. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<https://doi.org/10.2307/3298527>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.2307/3298527
 
 Chrobak, U. (2019, July 1). Feral pigs are ruining ecosystems across 35 states and hunting is <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;making it worse. Retrieved October 04, 2020, from <https://www.popsci.com/feral-pig-problem/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;making it worse. Retrieved October 04, 2020, from https://www.popsci.com/feral-pig-problem/
 
 Davies, A. & Harrigan, J. R. (2019). The Cobra Effect: Lessons in Unintended Consequences. Foundation <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for Economic Education. <https://fee.org/articles/the-cobra-effect-lessons-in-unintended-consequences/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for Economic Education. https://fee.org/articles/the-cobra-effect-lessons-in-unintended-consequences/
 
 Dorcas, M., Willson, J., Reed, R., Snow, R., Rochford, M., Miller, M., ... Hart, K. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2011,December 21). Severe mammal declines coincide with proliferation of invasive Burmese <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pythons in Everglades National Park. Retrieved October 04, 2020, from <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<https://www.pnas.org/content/pnas/109/7/2418.full.pdf>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.pnas.org/content/pnas/109/7/2418.full.pdf
 
 Dueñas et al. (2018). The role played by invasive species in interactions with endangered and <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;threatened species in the United States: a systematic review. Biodiversity and <br>
@@ -51,31 +51,31 @@ Kapitza, K., Zimmermann, H., Martín-López, B., & von Wehrden, H. (2019). Resea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;social perception of invasive species: a systematic literature review. NeoBiota, 43, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;47-63. https://doi.org/10.3897/neobiota.43.31619
 
-National Ocean Service. (n.d.). What is an invasive species?. Retrieved October 05, 2020, from
-  https://oceanservice.noaa.gov/facts/invasive.html
+National Ocean Service. (n.d.). What is an invasive species?. Retrieved October 05, 2020, from <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://oceanservice.noaa.gov/facts/invasive.html
 
-Simone, W. (2020, August 15). Invasive Plants: 10 Beautiful But Invasive 
-  Perennials You Do Not Want In Your Garden. Retrieved November 25, 2020, 
-  from https://www.fromhousetohome.com/garden/invasive-plants/
+Simone, W. (2020, August 15). Invasive Plants: 10 Beautiful But Invasive <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perennials You Do Not Want In Your Garden. Retrieved November 25, 2020, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from https://www.fromhousetohome.com/garden/invasive-plants/
 
-The National Invasive Species Council (NSISC). (2006). Invasive Species Definition Clarification 
-  and Guidance White Paper. Invasive Species Advisory Committee. Retrieved from
-  https://cybercemetery.unt.edu/archive/nisic/20110629211928/http://invasivespeciesinfo.gov/docs/council/isacdef.pdf
+The National Invasive Species Council (NSISC). (2006). Invasive Species Definition Clarification <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Guidance White Paper. Invasive Species Advisory Committee. Retrieved from <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://cybercemetery.unt.edu/archive/nisic/20110629211928/http://invasivespeciesinfo.gov/docs/council/isacdef.pdf
 
-The National Wildlife Federation. (n.d.). Invasive Species. Retrieved October 05, 2020, from 
-  https://www.nwf.org/Educational-Resources/Wildlife-Guide/Threats-to-Wildlife/Invasive-Species
+The National Wildlife Federation. (n.d.). Invasive Species. Retrieved October 05, 2020, from <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.nwf.org/Educational-Resources/Wildlife-Guide/Threats-to-Wildlife/Invasive-Species
 
-Tilley, N. (2019). Please Enable Cookies. Retrieved November 25, 2020, 
-  from https://www.gardeningknowhow.com/ornamental/bulbs/lily-of-the-valley/growing-lily-of-the-valley.htm
+Tilley, N. (2019). Please Enable Cookies. Retrieved November 25, 2020, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from https://www.gardeningknowhow.com/ornamental/bulbs/lily-of-the-valley/growing-lily-of-the-valley.htm
 
-USDA. (n.d.). Firewood. Retrieved October 04, 2020, from
-  https://www.invasivespeciesinfo.gov/subject/firewood
+USDA. (n.d.). Firewood. Retrieved October 04, 2020, from <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.invasivespeciesinfo.gov/subject/firewood
 
-Walsh, J. R. & Carpenter, S. R. & Zanden, J. V. (2016). Invasive species triggers a massive loss
-  of ecosystem services through a trophic cascade. PNAS, 113(15), 4081-4085.			
-  https://doi.org/10.1073/pnas.1600366113
+Walsh, J. R. & Carpenter, S. R. & Zanden, J. V. (2016). Invasive species triggers a massive loss <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of ecosystem services through a trophic cascade. PNAS, 113(15), 4081-4085.			<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1073/pnas.1600366113
 
-Zavaleta, E., Hobbs, R., & Mooney, H. (2001, August 14). Viewing invasive species removal in a 
-  whole-ecosystem context. Retrieved October 04, 2020, from
-  https://www.sciencedirect.com/science/article/pii/S0169534701021942?casa_token=Fdv
-  lJFUGvfIAAAAA%3AYeXip0iS_GIuuXWKgQBFylBNDzdikaICGuFtOCax7LXrdHGByK9XRZLwVtwLATap95ie1gf0Eg
+Zavaleta, E., Hobbs, R., & Mooney, H. (2001, August 14). Viewing invasive species removal in a <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;whole-ecosystem context. Retrieved October 04, 2020, from <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sciencedirect.com/science/article/pii/S0169534701021942?casa_token=Fdv
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lJFUGvfIAAAAA%3AYeXip0iS_GIuuXWKgQBFylBNDzdikaICGuFtOCax7LXrdHGByK9XRZLwVtwLATap95ie1gf0Eg
