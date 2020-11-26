@@ -60,15 +60,18 @@ Kapitza, K., Zimmermann, H., Martín-López, B., & von Wehrden, H. (2019). Resea
 Midwest Invasive Plants Network (MIPN). (n.d.). Invasive Plants in Gardens and Landscapes. MIPN.org. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.mipn.org/prevention/preventing-invasive-plants-in-gardens-and-landscapes/
 
-Myers, V. R. (2020, September 17). 11 Species of Invasive Vines. the spruce. https://www.thespruce.com/eleven-species-of-invasive-vines-3269658
+Myers, V. R. (2020, September 17). 11 Species of Invasive Vines. the spruce. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.thespruce.com/eleven-species-of-invasive-vines-3269658
 
 National Ocean Service. (n.d.). What is an invasive species?. Retrieved October 05, 2020, from <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://oceanservice.noaa.gov/facts/invasive.html
 
-O’Reilly-Nugent, A., Palit, R., Lopez-Aldana, A. et al. Landscape Effects on the Spread of Invasive Species. Curr Landscape Ecol Rep 1, 107–114 (2016). <br>
+O’Reilly-Nugent, A., Palit, R., Lopez-Aldana, A. et al. Landscape Effects on the Spread of Invasive Species. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curr Landscape Ecol Rep 1, 107–114 (2016). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1007/s40823-016-0012-y
 
-PennState Extension (2019, June 29). The Invasive Japanese Honeysuckle. PennState Extension. https://extension.psu.edu/the-invasive-japanese-honeysuckle
+PennState Extension (2019, June 29). The Invasive Japanese Honeysuckle. PennState Extension. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://extension.psu.edu/the-invasive-japanese-honeysuckle
 
 Simone, W. (2020, August 15). Invasive Plants: 10 Beautiful But Invasive <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perennials You Do Not Want In Your Garden. Retrieved November 25, 2020, <br>
