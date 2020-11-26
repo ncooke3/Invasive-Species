@@ -1,6 +1,5 @@
 ---
 layout: page
-title: References
 ---
 
 <p align="center"> References</p>
