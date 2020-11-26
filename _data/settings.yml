@@ -13,6 +13,7 @@ menu:
 - {name: 'Feature Stories', folder: 'pages', file: 'stories.html'}
 - {name: 'Glossary', folder: 'pages', file: 'glossary.html'}
 - {name: 'Team Bios', folder: 'pages', file: 'bios.html'}
+- {name: 'References', folder: 'pages', file: 'references.html'}
 
 related_posts: 'You may also enjoy...'
 
