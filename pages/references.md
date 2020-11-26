@@ -1,8 +1,7 @@
 ---
 layout: page
+title: References
 ---
-
-<p align="center"> References</p>
 
 Avery, M., Humphrey, J., Keacher, K., & Bruce, W. (2018, December 03). Detection and <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Removal of Invasive Burmese Pythons: Methods Development Update. Retrieved <br>
