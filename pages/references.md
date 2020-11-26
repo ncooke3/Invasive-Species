@@ -47,7 +47,7 @@ Hart, K., Schofield, P., & Gregoire, D. (2011, December 21). Experimentally deri
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sciencedirect.com/science/article/pii/S002209811100520X?casa_token=I50NgeX-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IVIAAAAA%3AYVxIBS_GmhaBkSuFB3LdxC22p0pXrn2 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2DujGxzKnTvqrWsKVurpznj4wzKU6b9URYuaxV6KRA
 
-Helibacon(2020. Helicopter Hog Hunting. Texas Helicopter Hog Hunting. https://www.helibacon.com/texas-helicopter-hog-hunting/
+Helibacon (2020). Helicopter Hog Hunting. Texas Helicopter Hog Hunting. https://www.helibacon.com/texas-helicopter-hog-hunting/
 
 Indiana University. (n.d.). COVID-19 and environmental change: The social and environmental <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;factors contributing to the rise of zoonotic diseases. Retrieved October 05, 2020, from <br>
