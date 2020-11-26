@@ -7,6 +7,9 @@ Avery, M., Humphrey, J., Keacher, K., & Bruce, W. (2018, December 03). Detection
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Removal of Invasive Burmese Pythons: Methods Development Update. Retrieved <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 04, 2020, from https://escholarship.org/uc/item/90z67731 <br>
 
+Carrington, J. (2020, October 11). Want to go native in your West Texas landscape?. Abilene Reporter News. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.reporternews.com/story/life/columnists/2020/10/11/want-go-native-your-west-texas-landscape/5916752002/ 
+
 Chornesky, E. & Randall, J. (2003). The Threat of Invasive Alien Species to Biological Diversity: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting a Future Course. Annals of the Missouri Botanical Garden, 90(1), 67-76. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.2307/3298527
@@ -16,6 +19,8 @@ Chrobak, U. (2019, July 1). Feral pigs are ruining ecosystems across 35 states a
 
 Davies, A. & Harrigan, J. R. (2019). The Cobra Effect: Lessons in Unintended Consequences. Foundation <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for Economic Education. https://fee.org/articles/the-cobra-effect-lessons-in-unintended-consequences/
+
+Don't Move Firewood (DMF) Campaign. (n.d.). Frequently Asked Questions. Don't Move Firewood. https://www.dontmovefirewood.org/how-to-help/f-a-q/
 
 Dorcas, M., Willson, J., Reed, R., Snow, R., Rochford, M., Miller, M., ... Hart, K. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2011,December 21). Severe mammal declines coincide with proliferation of invasive Burmese <br>
@@ -51,8 +56,18 @@ Kapitza, K., Zimmermann, H., Martín-López, B., & von Wehrden, H. (2019). Resea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;social perception of invasive species: a systematic literature review. NeoBiota, 43, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;47-63. https://doi.org/10.3897/neobiota.43.31619
 
+Midwest Invasive Plants Network (MIPN). (n.d.). Invasive Plants in Gardens and Landscapes. MIPN.org. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.mipn.org/prevention/preventing-invasive-plants-in-gardens-and-landscapes/
+
+Myers, V. R. (2020, September 17). 11 Species of Invasive Vines. the spruce. https://www.thespruce.com/eleven-species-of-invasive-vines-3269658
+
 National Ocean Service. (n.d.). What is an invasive species?. Retrieved October 05, 2020, from <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://oceanservice.noaa.gov/facts/invasive.html
+
+O’Reilly-Nugent, A., Palit, R., Lopez-Aldana, A. et al. Landscape Effects on the Spread of Invasive Species. Curr Landscape Ecol Rep 1, 107–114 (2016). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1007/s40823-016-0012-y
+
+PennState Extension (2019, June 29). The Invasive Japanese Honeysuckle. PennState Extension. https://extension.psu.edu/the-invasive-japanese-honeysuckle
 
 Simone, W. (2020, August 15). Invasive Plants: 10 Beautiful But Invasive <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perennials You Do Not Want In Your Garden. Retrieved November 25, 2020, <br>
@@ -67,6 +82,9 @@ The National Wildlife Federation. (n.d.). Invasive Species. Retrieved October 05
 
 Tilley, N. (2019). Please Enable Cookies. Retrieved November 25, 2020, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from https://www.gardeningknowhow.com/ornamental/bulbs/lily-of-the-valley/growing-lily-of-the-valley.htm
+
+U.S. Department Of Agriculture (USDA). (n.d.). Ballast Water. National Invasive Species Information Center. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.invasivespeciesinfo.gov/subject/ballast-water
 
 USDA. (n.d.). Firewood. Retrieved October 04, 2020, from <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.invasivespeciesinfo.gov/subject/firewood
